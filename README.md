@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Homebrew tap for [Stavros Korokithakis](https://github.com/skorokithakis)' tools.
+Homebrew tap for [Stavros](https://github.com/skorokithakis)' tools.
 
 ## Usage
 
